@@ -114,7 +114,10 @@ print("\n------ 12.11 ------")
 
 # I'm actually not absolutely sure this is correct. Because width starts at offset 6 and height starts at 8,
 # I assume we're looking for a short integer. Short integers are 2 bytes compared to integers (4 bytes).
+#
 width = struct.unpack_from("<h", gif, 6)
 height = struct.unpack_from("<h", gif, 8)
 
+print(f"Width: {width[0]}")
+print(f"Height: {height[0]}")
 print(f"Width is same as height: {width == height}")
