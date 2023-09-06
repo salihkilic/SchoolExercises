@@ -1,4 +1,6 @@
 # Things to do, chapter 20
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch20.html#idm45794963355784
+
 import matplotlib.pyplot as plt
 
 # The exercises are going to make us three plots, so I'm setting up three subplots beforehand.
