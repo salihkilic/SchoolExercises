@@ -1,4 +1,5 @@
 # Things to do, chapter 5
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch05.html#idm45795015213992
 
 # 5.1 Capitalize the word starting with m:
 print("\n------ 5.1 ------")

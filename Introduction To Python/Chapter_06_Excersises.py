@@ -1,4 +1,5 @@
 # Things to do, chapter 6
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch06.html#idm45795014289432
 
 # 6.1 Use a for loop to print the values of the list [3, 2, 1, 0].
 print("\n------ 6.1 ------")

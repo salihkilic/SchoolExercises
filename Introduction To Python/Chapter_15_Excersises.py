@@ -1,4 +1,6 @@
 # Things to do, chapter 15
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch15.html#idm45794978880168
+
 import multiprocessing
 import datetime
 import time

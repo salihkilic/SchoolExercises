@@ -1,4 +1,6 @@
 # Things to do, chapter 7
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch07.html#idm45795009171336
+
 from random import randint
 
 # Use lists and tuples with numbers (Chapter 3) and strings (Chapter 5) to represent elements in the real world with

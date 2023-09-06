@@ -1,4 +1,5 @@
 # Things to do, chapter 8
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch08.html#idm45795004404584
 
 # 8.1 Make an English-to-French dictionary called e2f and print it. Here are your starter words: dog is chien,
 # cat is chat, and walrus is morse.

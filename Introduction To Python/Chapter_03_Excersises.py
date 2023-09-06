@@ -1,5 +1,5 @@
 # Things to do, chapter 3
-
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch03.html#idm45795038218584
 
 # 3.1 How many seconds are in an hour? Use the interactive interpreter as a calculator and multiply the number of
 # seconds in a minute (60) by the number of minutes in an hour (also 60).

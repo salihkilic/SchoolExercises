@@ -1,5 +1,5 @@
 # Things to do, chapter 4
-
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch04.html#idm45795036770920
 
 # 4.1 Choose a number between 1 and 10 and assign it to the variable secret. Then, select another number between 1
 # and 10 and assign it to the variable guess. Next, write the conditional tests (if, else, and elif) to print the

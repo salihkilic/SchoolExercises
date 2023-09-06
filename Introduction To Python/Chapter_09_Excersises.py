@@ -1,4 +1,5 @@
 # Things to do, chapter 9
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch09.html#idm45794999366392
 
 # 9.1 Define a function called good() that returns the following list: ['Harry', 'Ron', 'Hermione'].
 print("\n------ 9.1 ------")

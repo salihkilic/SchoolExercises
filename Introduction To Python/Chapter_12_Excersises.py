@@ -1,6 +1,7 @@
 # Things to do, chapter 12
-import binascii
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch12.html#thingstodo12
 
+import binascii
 import unicodedata
 import re
 import struct

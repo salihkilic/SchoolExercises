@@ -1,4 +1,6 @@
 # Things to do, chapter 14
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch14.html#idm45794982012168
+
 import os
 
 # 14.1 List the files in your current directory.

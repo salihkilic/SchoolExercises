@@ -1,4 +1,6 @@
 # Things to do, chapter 11
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch11.html#idm45794991636984
+
 from CustomImports import zoo
 from CustomImports import zoo as menagerie
 from CustomImports.zoo import hours

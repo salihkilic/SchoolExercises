@@ -1,4 +1,6 @@
 # Things to do, chapter 16
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch16.html#idm45794973069144
+
 import csv
 import sqlite3
 import redis

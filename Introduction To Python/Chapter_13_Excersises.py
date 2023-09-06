@@ -1,4 +1,6 @@
 # Things to do, chapter 13
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch13.html#idm45794985381672
+
 from datetime import date, timedelta
 from random import randint
 

@@ -1,5 +1,5 @@
 # Things to do, chapter 10
-
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch10.html#idm45794994281816
 
 # 10.1 Make a class called Thing with no contents and print it. Then, create an object called example from this class
 # and also print it. Are the printed values the same or different?

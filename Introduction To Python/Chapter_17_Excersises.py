@@ -1,4 +1,6 @@
 # Things to do, chapter 17
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch17.html#idm45794970309480
+
 import multiprocessing
 import random
 import time

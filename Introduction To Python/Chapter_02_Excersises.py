@@ -1,4 +1,5 @@
 # Things to do, chapter 2
+# https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/ch02.html#idm45795032771208
 
 # 2.1 Assign the integer value 99 to the variable prince, and print it.
 print("\n------ 2.1 ------")
