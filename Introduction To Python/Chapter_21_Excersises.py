@@ -5,7 +5,7 @@ import geopandas
 import matplotlib.pyplot as plt
 
 # 21.1 Install geopandas and run Example 21-1. Try modifying things like colors and marker sizes.
-print("\n------ 20.1 ------")
+print("\n------ 21.1 ------")
 
 world_file = geopandas.datasets.get_path('naturalearth_lowres')
 world = geopandas.read_file(world_file)
