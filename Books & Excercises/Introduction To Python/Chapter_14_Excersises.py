@@ -5,7 +5,7 @@ import os
 
 # 14.1 List the files in your current directory.
 print("\n------ 14.1 ------")
-item_list = os.listdir('.')
+item_list = os.listdir('')
 
 # Filter out folders"
 file_list = [file for file in item_list if "." in file]
@@ -14,7 +14,7 @@ for file in file_list:
 
 # 14.2 List the files in your parent directory.
 print("\n------ 14.2 ------")
-file_list = os.listdir('..')
+file_list = os.listdir('../..')
 for file in file_list:
     print(file)
 
