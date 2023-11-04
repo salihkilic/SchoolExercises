@@ -1,4 +1,6 @@
-for x in range(10):
-    print(x)
+import string
 
+string.ascii_letters
 
+for x in string.ascii_letters:
+    print(f'"{x}": "{x}", ')
